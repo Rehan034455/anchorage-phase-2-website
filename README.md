@@ -47,9 +47,6 @@ https://anchoragephase2.pk/
 
 ## 📸 Screenshots
 
-
-## 📸 Screenshots
-
 <p align="center">
   <img src="landing-page.png.png" width="900" />
 </p>
