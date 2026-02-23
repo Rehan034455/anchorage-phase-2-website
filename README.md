@@ -46,11 +46,32 @@ https://anchoragephase2.pk/
 ---
 
 ## 📸 Screenshots
-landing-page.png
-file-verification.png
-Galleryupdates.png
-upates.png
-Feedback.png
+## 📸 Screenshots
+
+### Landing Page
+<p align="center">
+  <img src="screenshots/landing-page.png" width="900" />
+</p>
+
+### Gallery & Updates
+<p align="center">
+  <img src="screenshots/gallery-updates.png" width="900" />
+</p>
+
+### Updates Section
+<p align="center">
+  <img src="screenshots/updates.png" width="900" />
+</p>
+
+### Feedback Form
+<p align="center">
+  <img src="screenshots/feedback.png" width="900" />
+</p>
+
+### File Verification
+<p align="center">
+  <img src="screenshots/file-verification.png" width="900" />
+</p>
 
 
 ---
