@@ -48,26 +48,27 @@ https://anchoragephase2.pk/
 ## 📸 Screenshots
 
 
+## 📸 Screenshots
+
 <p align="center">
-  <img src="screenshots/landing-pagepng.png" width="900" />
+  <img src="landing-page.png.png" width="900" />
 </p>
 
 <p align="center">
-  <img src="screenshots/gallery-updates.png" width="900" />
+  <img src="Galleryupdates.png.png" width="900" />
 </p>
 
 <p align="center">
-  <img src="screenshots/updates.png" width="900" />
+  <img src="upates.png.png" width="900" />
 </p>
 
 <p align="center">
-  <img src="screenshots/feedback.png" width="900" />
+  <img src="Feedback.png.png" width="900" />
 </p>
 
 <p align="center">
-  <img src="screenshots/file-verification.png" width="900" />
+  <img src="file-verification.png.png" width="900" />
 </p>
-
 ## 🔒 Note
 
 Due to client confidentiality agreements, the full source code cannot be shared publicly.  
